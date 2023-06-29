@@ -1,2 +1,2 @@
 # Power-BI-Projects
-These are Power BI projects done during the virtual intership with PWC.
+These are Power BI projects done during the virtual intership programme with PWC.
